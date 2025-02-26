@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 26 Feb 2025 12:46:39 at https://www.gharpayy.com/homes/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.gharpayy.com/homes/ -O1 "C:\My Web Sites\Gharpayy_Homes" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:47:46	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/href="https://api.whatsapp.com/send?phone=+917404489976&text=Heyy!%20GHARPAYY,%20I%20am%20looking%20for%20a%20GOOD-Flats%20in%20the%20AREA%20NEARBY (from https://www.gharpayy.com/homes/)
+12:48:03	Warning: 	Link https://www.gharpayy.com/homes/assets/plugins/css/owl.video.play.html not scanned (follow robots meta tag)
+12:48:03	Warning: 	Link https://www.gharpayy.com/homes/assets/plugins/img/cbp-sprite.html not scanned (follow robots meta tag)
+12:48:06	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/index-2.html (from https://www.gharpayy.com/homes/about.html)
+12:48:06	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/blog-details (from https://www.gharpayy.com/homes/faq.html)
+12:48:08	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/index-3.html (from https://www.gharpayy.com/homes/blog-details1.html)
+12:48:08	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/projects.html (from https://www.gharpayy.com/homes/blog-details1.html)
+12:48:08	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/projects-2.html (from https://www.gharpayy.com/homes/blog-details1.html)
+12:48:08	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/project-details.html (from https://www.gharpayy.com/homes/blog-details1.html)
+12:48:08	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/services.html (from https://www.gharpayy.com/homes/blog-details1.html)
+12:48:08	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/standard-blog.html (from https://www.gharpayy.com/homes/blog-details1.html)
+12:48:08	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/team.html (from https://www.gharpayy.com/homes/blog-details1.html)
+12:48:08	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/team-details.html (from https://www.gharpayy.com/homes/blog-details1.html)
+12:48:08	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/pricing.html (from https://www.gharpayy.com/homes/blog-details1.html)
+12:48:10	Error: 	"Not Found" (404) at link https://www.gharpayy.com/homes/${image} (from https://www.gharpayy.com/homes/assets/plugins/js/active.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 30 seconds : 190 links scanned, 176 files written (14507509 bytes overall) [11744112 bytes received at 130490 bytes/sec], 6344847 bytes transferred using HTTP compression in 111 files, ratio 54%, 8.6 requests per connection
+(13 errors, 2 warnings, 0 messages)
